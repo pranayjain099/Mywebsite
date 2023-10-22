@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Mywebsite</title>
-	<atom:link href="http://localhost/Mywebsite/feed/?simply_static_page=920" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/Mywebsite/feed/?simply_static_page=1864" rel="self" type="application/rss+xml" />
 	<link>https://pranayjain099.github.io/Mywebsite</link>
 	<description></description>
 	<lastBuildDate>Sun, 22 Oct 2023 18:17:40 +0000</lastBuildDate>
